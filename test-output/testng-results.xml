@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-23T20:53:43 EET" name="Default suite" finished-at="2024-02-23T20:54:35 EET" duration-ms="51710">
+    <groups>
+    </groups>
+    <test started-at="2024-02-23T20:53:43 EET" name="Default test" finished-at="2024-02-23T20:54:35 EET" duration-ms="51710">
+      <class name="mytestcases.Signup">
+        <test-method is-config="true" signature="Mysetup()[pri:0, instance:mytestcases.Signup@56ace400]" started-at="2024-02-23T20:53:43 EET" name="Mysetup" finished-at="2024-02-23T20:53:43 EET" duration-ms="326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mysetup -->
+        <test-method signature="MyFirstTest()[pri:1, instance:mytestcases.Signup@56ace400]" started-at="2024-02-23T20:53:43 EET" name="MyFirstTest" finished-at="2024-02-23T20:54:20 EET" duration-ms="37226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyFirstTest -->
+        <test-method signature="logoutprocess()[pri:2, instance:mytestcases.Signup@56ace400]" started-at="2024-02-23T20:54:20 EET" name="logoutprocess" finished-at="2024-02-23T20:54:25 EET" duration-ms="4827" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutprocess -->
+        <test-method signature="loginprocess()[pri:3, instance:mytestcases.Signup@56ace400]" started-at="2024-02-23T20:54:25 EET" name="loginprocess" finished-at="2024-02-23T20:54:34 EET" duration-ms="9216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginprocess -->
+      </class> <!-- mytestcases.Signup -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
